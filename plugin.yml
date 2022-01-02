@@ -1,5 +1,13 @@
-name: Health-Defense-By-Nomi
-main: Nomi\Main
-author: Nomi
-api: 3.0.0
-version: 1.0
+---
+name: HealthDefenceMana-Display
+main: DRAGONPMMP\HealthDefenceMana-Display\main
+author: DRAGONPMMP 
+api: 4.0.0
+version: 2.0.0
+description: Display HEALTH DEFENCE MANA IN UI
+
+permissions: 
+HealthDefenceMana-Display.use:
+description: permision to manage HealthDefenceMana-Display 
+default: op 
+...
