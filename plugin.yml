@@ -1,13 +1,23 @@
 ---
+
 name: HealthDefenceMana-Display
-main: src/DRAGONPMMP/HealthDefenceMana-Display
+
+main: DRAGONPMMP/HealthDefenceMana-Display/Main
+
 author: DRAGONPMMP 
+
 api: 4.0.0
+
 version: 2.0.0
+
 description: Display HEALTH DEFENCE MANA IN UI
 
 permissions: 
+
 HealthDefenceMana-Display.use:
+
 description: permision to manage HealthDefenceMana-Display 
+
 default: op 
+
 ...
