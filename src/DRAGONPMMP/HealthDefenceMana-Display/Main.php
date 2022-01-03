@@ -1,6 +1,6 @@
 <?php
 
-namespace DRAGONPMMP;
+namespace DRAGONPMMP/HealthDefenceMana-Display;
 
 use pocketmine\Player;
 
