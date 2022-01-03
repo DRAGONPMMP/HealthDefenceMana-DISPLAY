@@ -1,6 +1,6 @@
 ---
 name: HealthDefenceMana-Display
-main: DRAGONPMMP\HealthDefenceMana-Display\main
+main: src/DRAGONPMMP/HealthDefenceMana-Display
 author: DRAGONPMMP 
 api: 4.0.0
 version: 2.0.0
