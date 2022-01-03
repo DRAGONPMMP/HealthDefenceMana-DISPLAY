@@ -14,7 +14,7 @@ use pocketmine\event\Listener;
 
 use pocketmine\event\player\PlayerJoinEvent;
 
-class HealthDefenceMana-Display extends PluginBase implements Listener {
+class main extends PluginBase implements Listener {
 
          
 
