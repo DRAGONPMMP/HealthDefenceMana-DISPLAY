@@ -1,4 +1,7 @@
-# HealthDefenceMana-DISPLAY# Information 
+# HealthDefenceMana-DISPLAY
+- PLUGIN BY DRAGONPMMP 
+
+# Information 
 
 - DISPLAY HEALTH AND DEFENCE AND MANA 
 
@@ -22,6 +25,6 @@
 - JOIN US ON DISCORD https://discord.gg/thdh2bSPeQ
 
 
-   #  ISSUE OR SUGGEST 
+ #  ISSUE OR SUGGEST 
    
-   - PLS Open Issue on github to suggest / report .
+   - PLS Open Issue on github to suggest / report ...
